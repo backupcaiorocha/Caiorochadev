@@ -11,9 +11,15 @@ Desenvolvedor Web.
   <img align="center" alt="caio-nodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg">
   <img align="center" alt="caio-nodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg">
 </div>
-  
-  ##
- 
+
+   ##
+<div align="center">
+  <a href="https://github.com/caiorochadev">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=caiorochadev&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiorochadev&layout=compact&langs_count=7&theme=highcontrast"/>
+</div>
+
+ ## 
 <div> 
   <a href="https://instagram.com/caiorochadev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:dev.caiorocha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
